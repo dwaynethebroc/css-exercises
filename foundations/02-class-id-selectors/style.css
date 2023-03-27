@@ -1,0 +1,19 @@
+.oddnumber {
+    background-color: #ff0077;
+    font-family; "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#even {
+    color:rgb(0, 34, 255);
+    font-size: 36px;
+}
+
+.oddnumber.third{
+    font-size: 24px;
+}
+
+#steven{
+    background-color: rgb(131, 231, 131);
+    font-weight: bold;
+    font-size: 24px;
+}
